@@ -1,0 +1,21 @@
+﻿h2 {
+  color: #008888;
+  text-align: center;
+}
+
+.q1 {
+  color: #ffffff;
+  background-color: #339999;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.q2 {
+  color: #339999;
+}
+
+body {
+  margin-left: 1%;
+  margin-right: 1%;
+  background-image: url(https://background-tiles.com/overview/white/patterns/large/1018.png);
+}
